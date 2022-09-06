@@ -1,27 +1,28 @@
 ## Student Name (or name you would preferred to be called)
-
+	Aistra Webb
 ### Fall 2022
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- Intro to Data Science
 
-- Course 2
+- Analytical Geometry and Calc 1
 
-- Course 3
+- Intro to Comp and Programming
 
-- Course 4
+- Python for Data Analytics
 
 **Hobbies:**
 
 I am _passionate about_: 
 
 - Thing 1
-
+	Math (especially systems of equations)
 - Thing 2
-
+	Sci-Fi Novels (Red Rising series is my current favorite)
 - Thing 3 as shown in this website <https://www.floridapoly.edu>
+	Florida Polytechnic University
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2022/09/06
