@@ -1,5 +1,5 @@
 ## Student Name (or name you would preferred to be called)
-	Aistra Webb
+	Aistra Maris
 ### Fall 2022
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
